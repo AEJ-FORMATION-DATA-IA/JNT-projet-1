@@ -1,0 +1,320 @@
+.jnt-bg-image{
+    background-image: url('..//images/slide-01.jpg');
+    height: 95vh;
+	background-size: cover;	
+}
+.jnt-logo{
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 550;
+    font-size: 28px;
+}
+.jnt-menu{
+    list-style: none;
+    display: flex;
+    padding-top: 2em;
+    padding-left: 10em;
+    
+}
+.jnt-lien-menu{
+    margin-right: 3em;
+}
+.jnt-lien-menu-a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 550;
+    letter-spacing: 1px;
+}
+.jnt-lien-menu-a:hover{
+    text-decoration: none;
+    color: rgb(159, 186, 209);
+}
+.menu-active{
+    color: rgb(159, 186, 209);
+}
+.jnt-txt-header{
+    padding-top: 15em;
+    text-align: center;
+    color: #fff;
+}
+.jnt-hight{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.jnt-robust{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+.btnLearnGet{
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    margin-right: 1em;
+    margin-top: 1em;
+    transition: 0.3s;
+}
+.active{
+    background-color: #fff;
+    color: #68bb62;
+}
+.active:hover{
+    background-color: #68bb62;
+    color: #fff;
+    border: none;
+}
+.inactive:hover{
+    background-color: #fff;
+    color: #68bb62;
+}
+.jnt-lien-menu i{
+    color: #68bb62;
+    font-size: 18px;
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i:hover{
+    text-decoration: none;
+}
+/**********************about******************/
+.jnt-section-marge{
+    padding: 7em 0 7em 0;
+}
+.jnt-titre-section{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    color: #68bb62;
+}
+.jnt-about-desc{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+.jnt-marg-b-2{
+    margin-bottom: 3em;
+}
+.jnt-pad-t-1{
+    padding-top: 1em;
+}
+.jnt-service{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.btnLearn{
+    background-color: #68bb62;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    border: none;
+    width: 150px;
+    height: 40px;
+}
+.jnt-services-text{
+    padding-top: 3em;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+.jnt-paragraphe{
+    padding-top: 1em;
+}
+.jnt-ser-a:hover{
+    text-decoration: none;
+}
+.jnt-ligne{
+    height: 5px;
+    margin: 5em 0 5em 0;
+    background-color: #f7f7f7;
+    border-radius: 1px;
+}
+.jnt-lib-feature{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.jnt-text-feature{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+}
+.jnt-lien-feature{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: black;
+
+}
+.jnt-lien-feature:hover{
+    color: #68bb62;
+    text-decoration: none;
+}
+.jnt-bg-image-subscribe{
+    background-image: url('../images/slide-02.jpg');
+    height: 30em;
+}
+.jnt-txt-subscribe{
+    text-align: center;
+    color: #fff;
+}
+.jnt-subscribe{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.jnt-dont{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+.jnt-text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    margin-top: 2em;
+}
+.jnt-form{
+    text-align: center;
+    padding-top: 2em;
+}
+.jnt-chp-email-subscribe{
+    width: 30em;
+    height: 3em;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    margin-right: 1em;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 1em;
+}
+.btnSubscribe{
+    background-color: #fff;
+    color: #68bb62;
+    border: none;
+    border-radius: 50px;
+    width: 10em;
+    height: 3em;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.jnt-tri{
+    list-style: none;
+    padding-left: 0;
+}
+.jnt-tri-lien{
+    margin-top: 2em;
+}
+.jnt-tri-lien a{
+    color: rgb(126, 125, 125);
+}
+.jnt-tri-lien a:hover{
+    color: #68bb62;
+    text-decoration: none;
+}
+.jnt-pad-image-project{
+    padding: 1em;
+}
+.jnt-pad-image-project:hover{
+    opacity: 0.7;
+    transition: 0.3s;
+}
+.jnt-pad-top{
+    padding-top: 4em;
+}
+.jnt-bg-team{
+    background-image: url('../images/slide-03.jpg');
+}
+.jnt-pad-bot{
+    padding-bottom: 3em;
+}
+.jnt-team-desc{
+    text-align: center;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+.jnt-team-name{
+    font-size: 18px;
+    font-weight: bold;
+}
+.jnt-team-post{
+    font-size: 12px;
+}
+
+
+/*********************contact****************/
+.jnt-bg-contact{
+    background-image: url('../images/dotted-map-bg.png');
+}
+.jnt-cont-info{
+    padding-top: 0.5em;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.jnt-cont-chp-nom{
+    border: 1px solid rgb(185, 184, 184);
+    height: 50px;
+    margin-bottom: 3em;
+    
+}
+.jnt-cont-chp-message{
+    border: 1px solid rgb(185, 184, 184);
+    margin-bottom: 3em;
+}
+.jnt-mar-top-5{
+    margin-top: 5em;
+}
+.btnSendMessage{
+    background-color: #68bb62;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    border: none;
+    padding: 0 2em 0 2em;
+    height: 40px;
+}
+
+/*************footer*************/
+.jnt-bg-footer{
+    background-image: url('../images/slide-01.jpg');
+}
+.jnt-txt-footer{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 2em;
+}
+.jnt-icon-footer{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+.jnt-icon{
+    margin-left: 1em;
+}
+.jnt-follow{
+    color: #fff;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 100%;
+}
